@@ -1,0 +1,13 @@
+set number
+set iminsert=0
+set imsearch=0
+set ic
+set hls
+set is
+set textwidth=70
+set winminheight=0
+set noequalalways
+set winheight=9999
+set iskeyword=@,48-57,_,192-255
+set ts=4
+set dy=lastline
